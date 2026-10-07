@@ -1,0 +1,202 @@
+1. Project Title
+Global AI Adoption in Education: A Comprehensive Global Performance Intelligence Report
+Student Details
+- Name: Ashish Jadhav
+- Project: Global AI Students
+- Technology: Tableau, Data Analytics, Web Integration
+- Project Type: Data Analytics and Visualization
+2. Introduction
+Artificial Intelligence is becoming an important part of modern education. AI tools are being used by students, teachers and educational institutions for learning, teaching and other educational activities.
+However, AI adoption is not the same in every country or region.
+This project analyzes global AI adoption in education using data visualization and interactive dashboards. The project helps identify trends in AI usage, differences between countries, adoption levels and usage of different AI tools.
+3. Problem Statement
+The main problem addressed by this project is:
+To analyze the adoption and usage of Artificial Intelligence in education across different countries and years and present the findings through interactive dashboards and visualizations.
+
+The project aims to understand:
+- How AI adoption is changing over time.
+- Differences in AI usage between countries.
+- AI adoption in rural and urban areas.
+- School, student and teacher AI usage.
+- Adoption levels of AI.
+- Usage of popular AI tools.
+4. Objectives
+The main objectives of this project are:
+1. To collect and analyze data related to AI adoption in education.
+2. To clean and prepare the dataset for analysis.
+3. To identify important trends and patterns.
+4. To create meaningful visualizations using Tableau.
+5. To develop interactive dashboards.
+6. To create a Tableau Story for presenting the findings.
+7. To integrate the Tableau dashboards into a web application.
+8. To provide useful insights about global AI adoption in education.
+5. Data Collection
+The project uses a dataset containing information related to AI adoption and education across different countries and years.
+The dataset contains information related to:
+- Country
+- Year
+- Education Index
+- Internet Penetration
+- Student AI Usage
+- Teacher AI Usage
+- School AI Adoption
+- Rural AI Usage
+- Urban AI Usage
+- AI Tools
+- AI Adoption Level
+- Daily AI Usage
+The data was used as the main source for creating the Tableau dashboards.
+6. Data Preparation and Cleaning
+Before creating visualizations, the dataset was prepared for analysis.
+The following steps were performed:
+Step 1 – Check the dataset
+The dataset was examined to understand the available columns, records and data types.
+Step 2 – Check missing values
+The data was checked for missing or incomplete values.
+Step 3 – Check duplicate records
+Duplicate or unnecessary records were identified during data preparation.
+Step 4 – Check data types
+Numerical fields, categorical fields and date/year fields were checked so that they could be correctly used in Tableau.
+Step 5 – Prepare data for visualization
+The required fields were selected and organized so they could be used for charts, maps, KPIs and comparisons.
+7. Technology Used
+Technology	Purpose
+Tableau	Data analysis and visualization
+HTML	Web page structure
+CSS	Website design
+JavaScript	Web interaction
+Python/Flask	Web application
+Tableau Embed Code	Integrating dashboards into website
+
+
+8. Dashboard 1
+Global AI Adoption in Education Dashboard
+Dashboard 1 provides an overall view of global AI adoption.
+It contains several important visualizations.
+8.1 Key Performance Indicators
+The KPI section displays important values such as:
+- Average Daily AI Usage
+- Global Count
+- Education Index
+- Gender Gap
+- Internet Penetration
+- Rural AI Usage
+- School AI Adoption
+- Student AI Usage
+- Teacher AI Usage
+- Urban AI Usage
+These KPIs provide a quick summary of the dataset.
+8.2 Geographical Trends
+A world map is used to display the geographical distribution of the data.
+This allows users to compare different countries and understand the global distribution of educational and AI-related data.
+8.3 Country-wise AI Usage
+A bar chart compares average daily AI usage between countries.
+Countries such as Australia, Brazil, Canada, China, Germany, India, Nigeria, Pakistan, the United Kingdom and the United States can be compared.
+8.4 AI Adoption Journey
+The line chart shows the change in AI usage over the years.
+The visualization shows an overall increasing trend in AI-related usage from the earlier years towards 2026.
+8.5 Comparison of AI Tools
+The donut chart compares major AI tools.
+The displayed values are approximately:
+- ChatGPT – 26.7%
+- Microsoft Copilot – 25.1%
+- Google Gemini – 24.3%
+- Khanmigo – 24.0%
+This shows that multiple AI tools are being used in the education sector.
+9. Dashboard 2
+Global AI Project: Adoption, Usage and Growth
+Dashboard 2 provides a more detailed analysis of AI adoption.
+9.1 Rural and Urban AI Usage
+This visualization shows the growth of AI usage across rural and urban communities over different years.
+It helps understand how AI adoption changes over time across different types of communities.
+9.2 Country-wise Education Index
+The chart compares education-related index values between different countries.
+This makes it easier to identify differences in educational development.
+9.3 School AI Adoption Across Regions
+This visualization compares school AI adoption across different regions.
+It provides a visual understanding of how AI adoption is distributed among different regional categories.
+9.4 AI Adoption Level Breakdown
+This is one of the important visualizations in Dashboard 2.
+The dataset is divided into:
+Adoption Level	Records
+High Adoption	207
+Moderate Adoption	473
+Low Adoption	680
+
+
+The Low Adoption category has the highest number of records.
+This indicates that there is still considerable scope for increasing AI adoption in educational environments.
+10. Tableau Story
+Global Education and AI Adoption Journey
+A Tableau Story was created to present the important findings in a structured manner.
+The Story combines the major visualizations and helps users understand:
+1. Global AI adoption.
+2. Geographical differences.
+3. Growth of AI usage.
+4. Usage of different AI tools.
+5. Education-related indicators.
+6. Different AI adoption levels.
+The Story provides a complete view of the project instead of requiring users to analyze each chart separately.
+11. Web Integration
+The Tableau dashboards were integrated into a web application called Global AI Students.
+The website contains separate sections for:
+- Home
+- Dashboard 1
+- Dashboard 2
+- Story
+Tableau's embedding code was used to display the interactive visualizations directly on the website.
+This allows users to access the dashboards from a single web application.
+12. Key Findings
+The major findings from the project are:
+Finding 1 – Increasing AI Usage
+AI-related usage shows an overall increasing trend over the years.
+Finding 2 – Country Differences
+AI adoption and usage vary between different countries.
+Finding 3 – AI Tool Usage
+ChatGPT has the largest share among the four AI tools shown in the dashboard, at approximately 26.7%.
+Finding 4 – Low Adoption
+The adoption-level analysis shows:
+207 High → 473 Moderate → 680 Low
+Therefore, low adoption is the largest category in the dataset.
+Finding 5 – Scope for Improvement
+The large number of low-adoption records indicates that there is significant scope for improving AI adoption and digital readiness in education.
+13. Advantages of the Project
+- Provides interactive data visualization.
+- Makes large datasets easier to understand.
+- Helps compare countries and regions.
+- Shows trends over time.
+- Provides useful educational AI insights.
+- Allows users to interact with dashboards.
+- Combines Tableau dashboards with a web application.
+- Makes data-driven decision-making easier.
+14. Limitations
+- The analysis depends on the quality of the available dataset.
+- The results represent the information available in the dataset.
+- Some countries or regions may have limited data.
+- Dashboard results cannot automatically represent every educational institution worldwide.
+15. Future Scope
+In the future, the project can be improved by:
+- Adding more recent data.
+- Adding more countries and regions.
+- Adding real-time data.
+- Adding predictive analytics.
+- Using machine learning to predict future AI adoption.
+- Adding more interactive filters.
+- Adding student and teacher-specific analysis.
+- Adding a mobile-friendly application.
+16. Conclusion
+The Global AI Adoption in Education project demonstrates how raw educational data can be transformed into meaningful information using data analytics and Tableau.
+The project includes data preparation, visualization, interactive dashboards, Tableau Story and web integration.
+The analysis shows that AI usage is generally increasing over time, but the large number of low-adoption records shows that there is still significant scope for increasing AI adoption in education.
+Overall, this project demonstrates the complete process of data collection, data preparation, visualization, analysis, dashboard development, storytelling and web integration.
+17. Learning Outcomes
+Through this project, I learned:
+- How to understand and prepare datasets.
+- How to work with Tableau.
+- How to create charts and dashboards.
+- How to create interactive visualizations.
+- How to analyze trends and patterns.
+- How to create a Tableau Story.
+- How to interpret data and generate insights.
+- How to integrate Tableau visualizations into a website.
+- How to present analytical results clearly.
